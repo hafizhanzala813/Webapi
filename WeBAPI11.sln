@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeBAPI11", "WeBAPI11\WeBAPI11.csproj", "{FEE3D5E0-93B6-44AF-B70E-E1C236C429CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEE3D5E0-93B6-44AF-B70E-E1C236C429CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE3D5E0-93B6-44AF-B70E-E1C236C429CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE3D5E0-93B6-44AF-B70E-E1C236C429CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE3D5E0-93B6-44AF-B70E-E1C236C429CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19956D84-2026-4FF8-A6F0-0F25241B6450}
+	EndGlobalSection
+EndGlobal
